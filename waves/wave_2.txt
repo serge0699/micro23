@@ -1,0 +1,7 @@
+{signal: [
+  {name: 'clk', wave: 'p....'},
+  {name: 'instr', wave: 'x3...', data: ['add x1, x2, x4']},
+  {name: 'reg_file[1]', wave: '4....', data: ['5']},
+  {name: 'reg_file[2]', wave: '4....', data: ['6']},
+  {name: 'reg_file[4]', wave: 'x.6..', data: ['11']}
+]}
