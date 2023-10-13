@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="4.0000001"
-     inkscape:cx="433.49999"
-     inkscape:cy="384.12499"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="385.37319"
+     inkscape:cy="227.33482"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -1592,6 +1592,34 @@
          d="m 99,87 h 11.37109 v 3 H 99 Z m 0,0"
          id="path154-0-2" />
     </clipPath>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern11-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern12-5"
+       patternTransform="matrix(2,0,0,2,10.549964,-0.10311684)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="pattern11-3"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect10-3" />
+    </pattern>
   </defs>
   <rect
      style="fill:#56ff23;stroke:#000000;stroke-width:1.47444;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;fill-opacity:0.63529414"
@@ -1664,7 +1692,7 @@
      transform="translate(2.6516504,-0.39774756)"><tspan
        x="123.83536"
        y="110.32009"
-       id="tspan7">addi x5,x0,11</tspan></text>
+       id="tspan6">addi x5,x0,11</tspan></text>
   <path
      sodipodi:type="star"
      style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
@@ -1736,14 +1764,6 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2">
-    <rect
-       style="fill:#c2c2c2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1-0-6"
-       width="229.45137"
-       height="286.27573"
-       x="178.88797"
-       y="34.911587"
-       ry="13.42619" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:5px;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
@@ -1788,6 +1808,21 @@
          style="stroke-width:1"
          x="331.85403"
          y="248.45963" /></text>
+    <rect
+       style="fill:#c2c2c2;fill-opacity:1;stroke:#000000;stroke-width:1.2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1-0-6-0"
+       width="229.60428"
+       height="205.28813"
+       x="179.2365"
+       y="115.87252"
+       ry="9.6279116" />
+    <path
+       fill-rule="nonzero"
+       fill="#000000"
+       fill-opacity="1"
+       d="m 268.33123,309.73672 h -55.5 c -4.39844,0 -7.92969,-3.53125 -7.92969,-7.92969 v -55.5 c 0,-4.39844 3.53125,-7.92969 7.92969,-7.92969 h 55.5 c 4.39843,0 7.92969,3.53125 7.92969,7.92969 v 55.5 c 0,4.39844 -3.53126,7.92969 -7.92969,7.92969 z m -55.5,-69.91797 c -3.60547,0 -6.48828,2.88281 -6.48828,6.48828 v 55.5 c 0,3.60547 2.88281,6.48828 6.48828,6.48828 h 55.5 c 3.60547,0 6.48828,-2.88281 6.48828,-6.48828 v -55.5 c 0,-3.60547 -2.88281,-6.48828 -6.48828,-6.48828 z m 0,0"
+       id="path299-5-6-2"
+       style="fill:url(#pattern12-5);fill-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"

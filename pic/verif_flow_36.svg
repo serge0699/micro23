@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="2.8284273"
-     inkscape:cx="484.01456"
-     inkscape:cy="338.52735"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="495.99997"
+     inkscape:cy="276.24998"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -1664,7 +1664,7 @@
      transform="translate(2.6516504,-0.39774756)"><tspan
        x="123.83536"
        y="110.32009"
-       id="tspan6">addi x5,x0,11</tspan></text>
+       id="tspan7">addi x5,x0,11</tspan></text>
   <path
      sodipodi:type="star"
      style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
@@ -1736,14 +1736,6 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2">
-    <rect
-       style="fill:#c2c2c2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1-0-6"
-       width="229.45137"
-       height="286.27573"
-       x="178.88797"
-       y="34.911587"
-       ry="13.42619" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:5px;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.999997;stroke-dasharray:none;stroke-opacity:1"
@@ -1766,6 +1758,19 @@
          style="stroke-width:1"
          x="331.85403"
          y="248.45963" /></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 319.19679,268.62125 h -3.57973"
+       id="path12-1"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#c2c2c2;fill-opacity:1;stroke:#000000;stroke-width:1.2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1-0-6-0"
+       width="229.60428"
+       height="205.28813"
+       x="178.72502"
+       y="115.725"
+       ry="9.6279116" />
     <rect
        style="fill:#e18888;fill-opacity:1;stroke:#000000;stroke-width:0.765229"
        id="rect3"
@@ -1801,7 +1806,7 @@
        d="m 292.27816,253.89552 -0.0514,-5.14105 4.47797,2.52603 z"
        inkscape:transform-center-x="-0.81542971"
        inkscape:transform-center-y="0.014606171"
-       transform="matrix(1.1182474,0,0,0.98480689,-13.89965,31.504805)" />
+       transform="matrix(1.1182474,0,0,0.98480693,-13.89965,31.504805)" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 276.89815,278.60488 h 2.89391"
@@ -1824,7 +1829,7 @@
        d="m 292.27816,253.89552 -0.0514,-5.14105 4.47797,2.52603 z"
        inkscape:transform-center-x="-0.81542971"
        inkscape:transform-center-y="0.014606171"
-       transform="matrix(1.1182474,0,0,0.98480689,-46.628662,31.0773)" />
+       transform="matrix(1.1182474,0,0,0.98480693,-46.628662,31.0773)" />
     <path
        sodipodi:type="star"
        style="fill:#000000;stroke:#000000;stroke-width:0.999997"
@@ -1842,12 +1847,7 @@
        d="m 292.27816,253.89552 -0.0514,-5.14105 4.47797,2.52603 z"
        inkscape:transform-center-x="0.81542929"
        inkscape:transform-center-y="0.014606171"
-       transform="matrix(-1.1182474,0,0,0.98480689,609.48079,20.921743)" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 319.19679,268.62125 h -3.57973"
-       id="path12-1"
-       sodipodi:nodetypes="cc" />
+       transform="matrix(-1.1182474,0,0,0.98480693,609.48079,20.921743)" />
     <path
        sodipodi:type="star"
        style="fill:#000000;stroke:#000000;stroke-width:0.999997"
@@ -1865,7 +1865,19 @@
        d="m 292.27816,253.89552 -0.0514,-5.14105 4.47797,2.52603 z"
        inkscape:transform-center-x="0.81542929"
        inkscape:transform-center-y="0.014606171"
-       transform="matrix(-1.1182474,0,0,0.98480689,641.99986,21.285706)" />
+       transform="matrix(-1.1182474,0,0,0.98480693,641.99986,21.285706)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6px;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+       x="273.74579"
+       y="-295.97241"
+       id="text2-7"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan2-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-opacity:1"
+         x="273.74579"
+         y="-295.97241">DPI-C(C++)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3109,18 +3121,6 @@
          x="355.21597"
          y="233.57463"
          id="tspan11">(Interlayer)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:6px;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
-       x="273.74579"
-       y="-295.97241"
-       id="text2-7"
-       transform="rotate(90)"><tspan
-         sodipodi:role="line"
-         id="tspan2-3"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-opacity:1"
-         x="273.74579"
-         y="-295.97241">DPI-C(C++)</tspan></text>
   </g>
   <text
      xml:space="preserve"

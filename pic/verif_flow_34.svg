@@ -23,8 +23,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="2.0000001"
-     inkscape:cx="368.49999"
-     inkscape:cy="301.74999"
+     inkscape:cx="321.49998"
+     inkscape:cy="262.24999"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -1664,7 +1664,7 @@
      transform="translate(2.6516504,-0.39774756)"><tspan
        x="123.83536"
        y="110.32009"
-       id="tspan6">addi x5,x0,11</tspan></text>
+       id="tspan7">addi x5,x0,11</tspan></text>
   <path
      sodipodi:type="star"
      style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
@@ -1736,14 +1736,6 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2">
-    <rect
-       style="fill:#c2c2c2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1-0-6"
-       width="229.45137"
-       height="286.27573"
-       x="178.88797"
-       y="34.911587"
-       ry="13.42619" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:5px;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.999997;stroke-dasharray:none;stroke-opacity:1"
@@ -1774,6 +1766,14 @@
        x="278.22861"
        y="257.41016"
        ry="6.6819892" />
+    <rect
+       style="fill:#c2c2c2;fill-opacity:1;stroke:#000000;stroke-width:1.2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1-0-6-0"
+       width="229.60428"
+       height="205.28813"
+       x="178.62688"
+       y="115.65287"
+       ry="9.6279116" />
   </g>
   <g
      inkscape:groupmode="layer"
