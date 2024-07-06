@@ -22,8 +22,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="1.7786951"
-     inkscape:cx="212.51535"
-     inkscape:cy="94.170161"
+     inkscape:cx="212.51534"
+     inkscape:cy="94.170159"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -2076,7 +2076,7 @@
        id="tspan2"
        style="font-size:9px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-opacity:1"
        x="124.03324"
-       y="144.00975">add x1,x2,x4</tspan></text>
+       y="144.00975">add x4,x2,x1</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:bold;font-size:9px;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"

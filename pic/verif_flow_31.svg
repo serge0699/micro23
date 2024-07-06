@@ -24,7 +24,7 @@
      showgrid="false"
      inkscape:zoom="1.4142136"
      inkscape:cx="251.73001"
-     inkscape:cy="339.76481"
+     inkscape:cy="339.7648"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -2801,7 +2801,7 @@
        id="tspan2"
        style="font-size:9px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-opacity:1"
        x="123.81457"
-       y="99.549675">add x1,x2,x4</tspan></text>
+       y="99.549675">add x4,x1,x2</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:bold;font-size:9px;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:73.3457;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
@@ -2811,7 +2811,7 @@
      transform="translate(2.6516504,-0.39774756)"><tspan
        x="123.83536"
        y="110.32009"
-       id="tspan5">addi x5,x0,11</tspan></text>
+       id="tspan3">addi x5,x0,11</tspan></text>
   <path
      sodipodi:type="star"
      style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
